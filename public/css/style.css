@@ -1,0 +1,14 @@
+body {
+  background: #210e41; /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, rgb(1, 19, 59),rgb(23, 11, 76));
+  background: -moz-linear-gradient(right, #6152b8, #4446c6);
+  background: -o-linear-gradient(right, #52a4b8, #6fa1c2);
+  background: linear-gradient(to left,rgb(11, 4, 57), rgb(22, 79, 177));
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+
+.lbl_texto{
+    color: white;
+}
